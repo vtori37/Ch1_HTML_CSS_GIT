@@ -1,7 +1,8 @@
 # Horiseon Refractor Assignment 
 
 ## Description 
-lsdflksdjlfsajdfkasjsdjkdsfjda (add it later)
+![alt text](./assets/images/Homepage-img.png)
+
 
 ## Table of Contents 
 * 
