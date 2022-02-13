@@ -4,7 +4,7 @@
 ![alt text](./assets/images/Homepage-img.png)
 
 This is a landing homepage for the company, Horiseon. My responsibilites were to refractor the code.
-To view the refractored version of the website, click the link below.
+To view the refractored version of the website, click the link under the [Website](#the-website) section. 
 
 
 
@@ -13,7 +13,7 @@ To view the refractored version of the website, click the link below.
 * [Contributors](#contributors)
 * [Credits](#credits)
 
-## The Website
+## Website
 Here is a link to the live website:
 [Homepage | Horiseon](https://vtori37.github.io/Ch1_HTML_CSS_GIT/)
 
@@ -25,6 +25,7 @@ Here is a link to the live website:
 * HTML5
 * CSS 
 * [Markdown](https://www.markdownguide.org/basic-syntax/) provided the necessary syntax for this README.md.
+
 --- 
 
 
