@@ -24,7 +24,7 @@ Here is a link to the live website:
 ## Credits
 * HTML5
 * CSS 
-* [Markdown](https://www.markdownguide.org/basic-syntax/) provided the necessary syntax for this README.md.
+* [Markdown](https://www.markdownguide.org/basic-syntax/)
 
 --- 
 
