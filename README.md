@@ -3,18 +3,29 @@
 ## Description 
 ![alt text](./assets/images/Homepage-img.png)
 
+This is a landing homepage for the company, Horiseon. My responsibilites were to refractor the code.
+To view the refractored version of the website, click the link below.
+
+
 
 ## Table of Contents 
-* 
-or 
-- 
-add list of texts
+* [Website](#website)
+* [Contributors](#contributors)
+* [Credits](#credits)
 
-## Display
+## The Website
+Here is a link to the live website:
+[Homepage | Horiseon](https://vtori37.github.io/Ch1_HTML_CSS_GIT/)
 
-## License 
-(none)
+
+## Contributors
+[Victoria Rice](https://github.com/vtori37)
 
 ## Credits
-(me bye me from me for me)
+* HTML5
+* CSS 
+* [Markdown](https://www.markdownguide.org/basic-syntax/) provided the necessary syntax for this README.md.
+--- 
+
+
 
